@@ -33,3 +33,4 @@ s3_bucket =
 # short_code = Long Name, timezone
 sfo = San Francisco, America/Los_Angeles
 ```
+
